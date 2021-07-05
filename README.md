@@ -1,2 +1,2 @@
 # Penginapan_Al-Kahfi
-# Merupaka tugas Project Akhir BPWL
+# Merupakan tugas Project Akhir BPWL
